@@ -7,3 +7,7 @@ Techno and Language i use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+
+<a href="https://www.hackerrank.com/certificates/0274e2994e13">
+    <img src="badges/problem_solving_basic_skill.png" alt="Problem Solving (Basic) Certificate">
+</a>
