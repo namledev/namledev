@@ -1,4 +1,4 @@
-I'm Le Ly Phuong Nam, sofware developer :D and looking forward to any android, web, deeplearning projects available
+I'm Nam Le from Viet Nam with love, sofware developer :D and looking forward to any android, web, deeplearning projects available
 
 Techno and Language i use:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
