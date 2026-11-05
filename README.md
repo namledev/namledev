@@ -2,37 +2,18 @@
   <img src="./assets/sakura-header.svg" width="100%" alt="Nam Le — DevOps, Cloud and Automation. Animated cherry blossom petals." />
 </p>
 
-<p align="center">
-  <a href="https://github.com/namledev?tab=repositories">Projects</a> ·
-  <a href="https://github.com/namledev/DMS">Currently building: DMS</a>
-</p>
+I'm Nam Le from Viet Nam with love, DevOps
+# 💫 About Me:
+I have 6 years of experience  in DevOps<br>Certificate : Aws, CCNA, CCNP, ...<br>Archive : 2 years in linux, 1 year docker, 6 months in automation.<br>Anyone interest with my Bio can contact
 
-### A little about me
 
-Hi, I'm **Nam Le**, a developer from **Viet Nam** interested in DevOps, cloud infrastructure, and automation.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuongnam25vn@gmail.com) 
 
-- Building **DMS — Driver Monitor Tracking System**, with FastAPI and Next.js.
-- Exploring ways to make development and deployment simpler.
-- Sharing projects, experiments, and what I learn along the way.
-
-### My toolbox
-
-| Area | Technologies & interests |
-| :--- | :--- |
-| Backend | Python · FastAPI |
-| Frontend | JavaScript · TypeScript · React · Next.js · Tailwind CSS |
-| Infrastructure | Linux · Docker · Nginx |
-| Workflow | Git · CI/CD · Automation |
-
-### Currently building
-
-**[DMS — Driver Monitor Tracking System ↗](https://github.com/namledev/DMS)**  
-A team project for driver monitoring and trip management.
-
-`FastAPI` `Next.js` `TypeScript` `Python`
-
-**Stage:** foundation and feature development. Working toward driver and vehicle management, trips, GPS, and monitoring events.
-
----
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=namledev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=namledev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=namledev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 <p align="center"><sub>Small steps. Thoughtful systems. A little sakura along the way.</sub></p>
