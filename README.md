@@ -1,12 +1,9 @@
-![Nam Le — animated sakura](./assets/sakura-header.svg)
+[![Nam Le — DevOps profile with falling sakura petals](./assets/sakura-profile.svg)](mailto:phuongnam25vn@gmail.com)
 
-[![About Nam Le: 6 years of DevOps experience; AWS, CCNA, CCNP; Linux, Docker and automation](./assets/about.svg)](mailto:phuongnam25vn@gmail.com)
+<p align="center"><a href="mailto:phuongnam25vn@gmail.com">Email</a> · <a href="https://github.com/namledev?tab=repositories">Repositories</a> · <a href="https://github.com/namledev/DMS">DMS</a></p>
 
-<p align="center"><a href="mailto:phuongnam25vn@gmail.com">Email me</a> · <a href="https://github.com/namledev?tab=repositories">Explore my repositories</a> · <a href="https://github.com/namledev/DMS">DMS project</a></p>
-
-![Tech stack: JavaScript, Python, MySQL; cloud, infrastructure, CI/CD, testing and AI](./assets/stack.svg)
-
-![GitHub activity and achievements](./assets/activity.svg)
+<details>
+<summary>GitHub statistics &amp; achievements</summary>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=namledev&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=false" alt="GitHub stats" />
@@ -22,4 +19,5 @@
 
 ![Top contributed repositories](https://github-contributor-stats.vercel.app/api?username=namledev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-[![Contact Nam Le — phuongnam25vn@gmail.com](./assets/footer.svg)](mailto:phuongnam25vn@gmail.com)
+
+</details>
